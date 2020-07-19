@@ -1,0 +1,788 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="mogo.css">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <title></title>
+  </head>
+  <body>
+<header class="header">
+<div class="header-with">
+  <div class="header-flex">
+<div class="header-logo">
+  <a href="#">
+<h1>MoGo</h1>
+  </a>
+</div>
+<div class="header-nav">
+  <ul class="header-nav__ul">
+    <li>
+<a href="#">ABOUT</a>
+    </li>
+    <li>
+<a href="#">SERVICE</a>
+    </li>
+    <li>
+<a href="#">WORK</a>
+    </li>
+    <li>
+<a href="#">BLOG</a>
+    </li>
+    <li>
+<a href="#">CONTACT</a>
+    </li>
+  </ul>
+  <div class="header-item">
+<a href="#">
+<img src="images/kago.jpg" alt="">
+</a>
+</div>
+<div class="header-item">
+<a href="#">
+<img src="images/musimegane.jpg" alt="">
+</a>
+</div>
+</div>
+<div class="header-menu">
+  <img src="images/Menu.png" alt="">
+</div>
+</div>
+<div class="header-textall">
+<div class="header-text">
+<span>Creative Templete</span>
+</div>
+<div class="header-text__under">
+<span>Welcome<br>
+to MoGo</span>
+</div>
+</div>
+<div class="header-siro">
+  <img src="images/siro.jpg" alt="">
+</div>
+<div class="header-border">
+<a href="#">
+<span>Learn more</span>
+</a>
+</div>
+<div class="header-one">
+<div class="header-second">
+<img src="images/red.jpg" alt="">
+<div class="header-one__number">
+<img src="images/number.jpg" alt="">
+</div>
+</div>
+<div class="header-second">
+<img src="images/usui.jpg" alt="">
+<div class="header-one__number">
+<img src="images/numbers.jpg" alt="">
+</div>
+</div>
+<div class="header-second">
+<img src="images/usui.jpg" alt="">
+<div class="header-one__number">
+<img src="images/numbert.jpg" alt="">
+</div>
+</div>
+<div class="header-second">
+<img src="images/usui.jpg" alt="">
+<div class="header-one__number">
+<img src="images/numberf.jpg" alt="">
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+
+
+<div class="main">
+<div class="main-txt">
+  <div class="main-txt__one">
+<span>What we do</span>
+  </div>
+  <div class="main-txt__second">
+<span>Story about us</span>
+  </div>
+  <div class="mainsecond-img">
+  <img src="images/mizikai.jpg" alt="">
+  </div>
+</div>
+<div class="main-txtsecond">
+<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,<br>
+   quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </span>
+</div>
+<div class="main-img">
+<div class="mian-img__area">
+<img src="images/backhuman.png" alt="">
+</div>
+<div class="mian-img__area">
+<img src="images/imgs.png" alt="">
+</div>
+<div class="mian-img__area">
+<img src="images/imgt.png" alt="">
+</div>
+</div>
+</div>
+
+<div class="mainnumber">
+<div class="mainnumber-with">
+<div class="mainnumber-all">
+  <div class="mainnumber-all__number">
+<span class="mainnumber-all__one">42</span>
+<span class="mainnumber-all__second">Web Design Projects</span>
+  </div>
+  <div class="mainnumber-all__number">
+<span class="mainnumber-all__one">123</span>
+<span class="mainnumber-all__second">HAPPY CLIENT</span>
+  </div>
+  <div class="mainnumber-all__number">
+<span class="mainnumber-all__one">15</span>
+<span class="mainnumber-all__second">AWAARD WINNER</span>
+  </div>
+  <div class="mainnumber-all__number">
+<span class="mainnumber-all__one">99</span>
+<span class="mainnumber-all__second">CUP OF COFFEE</span>
+  </div>
+  <div class="mainnumber-all__numbera">
+<span class="mainnumber-all__one">24</span>
+<span class="mainnumber-all__second">MEMBERS</span>
+  </div>
+</div>
+</div>
+</div>
+
+
+<div class="mainimgarea">
+<div class="mainimgarea-txt">
+<span class="mainnumber-txt__one">We work with</span>
+<span class="mainnumber-txt__second">Amazing Services</span>
+</div>
+<div class="mainsecond-img">
+<img src="images/mizikai.jpg" alt="">
+</div>
+<div class="mainnumber-imgall">
+
+<div class="mainnumber-imgarea">
+  <div class="mainnumber-imgarea__img">
+    <img src="images/clock.jpg" alt="">
+  </div>
+  <div class="mainnumber-imgarea__txt">
+<span class="mainnumber-imgarea__txtone">Photography</span>
+<span class="mainnumber-imgarea__txtsecond">Lorem ipsum dolor sit amet, consectetur <br>
+  adipiscing elit, sed do eiusmod tempor.</span>
+  </div>
+</div>
+
+<div class="mainnumber-imgarea">
+  <div class="mainnumber-imgarea__img">
+    <img src="images/nami.jpg" alt="">
+  </div>
+  <div class="mainnumber-imgarea__txt">
+<span class="mainnumber-imgarea__txtone">Web Design</span>
+<span class="mainnumber-imgarea__txtsecond">
+  Ipsum dolor sit amet, consectetur adipiscing <br>
+  elit, sed do eiusmod tempor.
+  </span>
+  </div>
+</div>
+
+<div class="mainnumber-imgarea">
+  <div class="mainnumber-imgarea__img">
+    <img src="images/tv.jpg" alt="">
+  </div>
+  <div class="mainnumber-imgarea__txt">
+<span class="mainnumber-imgarea__txtone">Creativity</span>
+<span class="mainnumber-imgarea__txtsecond">Dolor sit amet, consectetur adipiscing elit, sed <br>
+  do eiusmod tempor.</span>
+  </div>
+</div>
+</div>
+<div class="mainnumber-imgallone">
+
+<div class="mainnumber-imgarea">
+  <div class="mainnumber-imgarea__img">
+    <img src="images/book.jpg" alt="">
+  </div>
+  <div class="mainnumber-imgarea__txt">
+<span class="mainnumber-imgarea__txtone">seo</span>
+<span class="mainnumber-imgarea__txtsecond">Ipsum dolor sit amet, consectetur adipiscing <br>
+  elit, sed do eiusmod.</span>
+  </div>
+</div>
+
+<div class="mainnumber-imgarea">
+  <div class="mainnumber-imgarea__img">
+    <img src="images/home.jpg" alt="">
+  </div>
+  <div class="mainnumber-imgarea__txt">
+<span class="mainnumber-imgarea__txtone">Css/Html</span>
+<span class="mainnumber-imgarea__txtsecond">
+  Lorem dolor sit amet, consectetur adipiscing
+  <br>elit, sed do tempor.
+  </span>
+  </div>
+</div>
+
+<div class="mainnumber-imgarea">
+  <div class="mainnumber-imgarea__img">
+    <img src="images/qr.jpg" alt="">
+  </div>
+  <div class="mainnumber-imgarea__txt">
+<span class="mainnumber-imgarea__txtone">digital</span>
+<span class="mainnumber-imgarea__txtsecond">Sit amet, consectetur adipiscing elit, sed do<br>
+   eiusmod tempor.</span>
+  </div>
+</div>
+</div>
+</div>
+
+<div class="mainsecond">
+<div class="mainsecond-with">
+<div class="mainsecond-txt">
+<span class="mainsecond-txt__one">For all devices</span>
+<span class="mainsecond-txt__second">Unique design</span>
+</div>
+<div class="mainsecond-img">
+<img src="images/mizikai.jpg" alt="">
+</div>
+<div class="mainsecond-iphone">
+<img src="images/iphonetwo.png" alt="">
+</div>
+</div>
+</div>
+
+<div class="mainthird">
+<div class="mainthird-txt">
+<span class="mainthird-txt__one">Service</span>
+<span class="mainthird-txt__second">what we do</span>
+</div>
+
+<div class="mainsecond-img">
+<img src="images/mizikai.jpg" alt="">
+</div>
+
+<div class="mainthird-txt__long">
+<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,<br>
+   quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </span>
+</div>
+
+<div class="mainthird-humanimg">
+<div class="mainthird-humanimg__all">
+
+<img class="mainthird-humanimg__img" src="images/humanimg.png" alt="">
+
+<div class="mainthird-humanimg__flex">
+<div class="mainthird-humaning__txtarea">
+  <div class="mainthird-humanimg__txt">
+<img src="images/kitte.jpg" alt="">
+<span>Photography</span>
+</div>
+<div class="mainthird-humanimg__up">
+<img src="images/up.png" alt="">
+</div>
+</div>
+<div class="mainthird-humanimg__longtxt">
+  <div class="mainthird-humanimg__longtxtall">
+<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor <br>
+  incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud <br>
+  exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure<br>
+   dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>
+    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt <br>
+    mollit anim id est laborum.</span>
+  </div>
+
+</div>
+<div class="mainthird-humanimg__boutxt">
+<div class="mainthird-humanimg__bouarea">
+<img src="images/bou.jpg" alt="">
+<span>creativity</span>
+</div>
+<div class="mainthird-humanimg__down">
+<img src="images/down.png" alt="">
+</div>
+</div>
+
+<div class="mainthird-humanimg__boutxt">
+<div class="mainthird-humanimg__bouarea">
+<img src="images/maru.jpg" alt="">
+<span>web design</span>
+</div>
+<div class="mainthird-humanimg__down">
+<img src="images/down.png" alt="">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="mainforth">
+<div class="mainforth-with">
+<div class="mainforth-kutikomi">
+<div class="mainforth-kutikomi__img">
+<img src="images/kome.jpg" alt="">
+</div>
+<div class="mainforth-kutikomi__txtall">
+<div class="mainforth-kutikomi__txt">
+<span>“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod<br>
+   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim<br>
+    veniam, quis nostrud exercitation.”</span>
+</div>
+<div class="mainforth-kutikomi__jon">
+  <img src="images/mizikai.jpg" alt="">
+  <span>Jon Doe</span>
+  </div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="mainfifth">
+<div class="mainfifth-title">
+<span class="mainfifth-title__one">Who we are</span>
+<span class="mainfifth-title__second">Meet our team</span>
+</div>
+<div class="mainsecond-img">
+<img src="images/mizikai.jpg" alt="">
+</div>
+<div class="mainfifth-longtxt">
+<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,<br>
+   quisnostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </span>
+</div>
+<div class="mainfifth-imgarea">
+<div class="mainfifth-imgarea__all">
+<div class="mainfifth-imgarea__imgtxt">
+<img src="images/backhuman.jpg" alt="">
+<div class="mainfifth-imgarea__txt">
+<span class="mainfifth-imgarea__txtone">Matthew Dix</span>
+<span class="mainfifth-imgarea__txtsecond">Graphic Design</span>
+</div>
+</div>
+
+<div class="mainfifth-imgarea__imgtxt">
+<img src="images/camera.png" alt="">
+<div class="mainfifth-imgarea__txt">
+<span class="mainfifth-imgarea__txtone">Christopher Campbell</span>
+<span class="mainfifth-imgarea__txtsecond">Branding/UX design</span>
+</div>
+</div>
+
+<div class="mainfifth-imgarea__imgtxt">
+<img src="images/huku.png" alt="">
+<div class="mainfifth-imgarea__txt">
+<span class="mainfifth-imgarea__txtone">Michael Fertig </span>
+<span class="mainfifth-imgarea__txtsecond">Developer</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="mainmark">
+<div class="mainmark-with">
+<img src="images/mark.png" alt="">
+</div>
+</div>
+
+
+<div class="mainsixth">
+<div class="mainsixth-title">
+<span class="mainsixth-title__one">What we do</span>
+<span class="mainsixth-title__second">some of our work</span>
+</div>
+<div class="mainsecond-img">
+<img src="images/mizikai.jpg" alt="">
+</div>
+<div class="mainsixth-longtxt">
+<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,<br>
+  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </span>
+</div>
+<div class="mainsixth-imgarea__all">
+<div class="mainsixth-imgarea">
+<img src="images/hadaka.png"width="300"alt="">
+<img src="images/brigh.png"width="300" alt="">
+</div>
+<div class="mainsixth-imgarea">
+<img src="images/dorm.png"width="300" alt="">
+<img src="images/markone.png"width="300" alt="">
+</div>
+<div class="mainsixth-imgarea">
+<img src="images/ocean.png"width="300" alt="">
+</div>
+<div class="mainsixth-imgarea">
+<img src="images/wdorm.png"width="300" alt="">
+<img src="images/bighome.png"width="300" alt="">
+</div>
+</div>
+<div class="mainsixth-en">
+<div class="mainsixth-en__migi">
+<img src="images/hidari.jpg" alt="">
+</div>
+<div class="mainsixth-en__mark">
+<img src="images/en.png" alt="">
+</div>
+<div class="mainsixth-en__txt">
+  <div class="mainsixth-en__longtxt">
+<span>“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod<br>
+   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim <br>
+   veniam, quis nostrud exercitation.”</span>
+   <div class="mainsixth-en__name">
+   <img src="images/mizikai.jpg" alt="">
+   <span>Joshua Earle</span>
+   </div>
+</div>
+</div>
+<div class="mainsixth-en__migi">
+<img src="images/migi.png" alt="">
+</div>
+</div>
+</div>
+
+
+<div class="mainseventh">
+<div class="mainseventh-with">
+<div class="mainseventh-title">
+<span class="mainseventh-title__one">Happy Clients</span>
+<span class="mainseventh-title__second">What people say</span>
+</div>
+<div class="mainsecond-img">
+<img src="images/mizikai.jpg" alt="">
+</div>
+<div class="mainseventh-human">
+<div class="mainseventh-human__all">
+<div class="mainseventh-human__img">
+<img src="images/huone.png" alt="">
+</div>
+<div class="mainseventh-human__txt">
+<span class="mainseventh-human__txtname">Matthew Dix</span>
+<span class="mainseventh-human__txtone">Graphic Design</span>
+<img src="images/mizikai.jpg"width="50" alt="">
+<span class="mainseventh-human__longtxt">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed<br>
+   do eiusmod tempor incididunt ut labore et dolore magna<br>
+    aliqua. Ut enim ad minim.</span>
+</div>
+</div>
+
+<div class="mainseventh-human__all">
+<div class="mainseventh-human__img">
+<img src="images/husecond.png" alt="">
+</div>
+<div class="mainseventh-human__txt">
+<span class="mainseventh-human__txtname">Nick Karvounis</span>
+<span class="mainseventh-human__txtone">Graphic Design</span>
+<img src="images/mizikai.jpg"width="50" alt="">
+<span class="mainseventh-human__longtxt">
+    Sit amet, consectetur adipiscing elit, sed do eiusmod tempor<br>
+     incididunt ut labore et dolore magna aliqua. Ut enim ad<br>
+      minim veniam</span>
+</div>
+</div>
+</div>
+
+<div class="mainseventh-human">
+<div class="mainseventh-human__all">
+<div class="mainseventh-human__img">
+<img src="images/huthird.png" alt="">
+</div>
+<div class="mainseventh-human__txt">
+<span class="mainseventh-human__txtname">Jaelynn Castillo </span>
+<span class="mainseventh-human__txtone">Graphic Design</span>
+<img src="images/mizikai.jpg"width="50" alt="">
+<span class="mainseventh-human__longtxt">
+Ipsum dolor sit amet, consectetur adipiscing elit, sed do<br>
+ eiusmod tempor incididunt ut labore et dolore magna aliqua.<br>
+  Ut enim ad minim veniam
+</span>
+</div>
+</div>
+
+<div class="mainseventh-human__all">
+<div class="mainseventh-human__img">
+<img src="images/huforth.png" alt="">
+</div>
+<div class="mainseventh-human__txt">
+<span class="mainseventh-human__txtname">Mike Petrucci</span>
+<span class="mainseventh-human__txtone">Graphic Design</span>
+<img src="images/mizikai.jpg"width="50" alt="">
+<span class="mainseventh-human__longtxt">
+  Dolor sit amet, consectetur adipiscing elit, sed do eiusmod <br>
+  tempor incididunt ut labore et dolore magna aliqua. Ut enim<br>
+   ad minim.
+      </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="maineighth">
+<div class="maineighth-title">
+<span class="maineighth-title__one">Our stories</span>
+<span class="maineighth-title__second">Latest blog</span>
+</div>
+<div class="mainsecond-img">
+<img src="images/mizikai.jpg" alt="">
+</div>
+<div class="maineighth-imgarea__all">
+<div class="maineighth-imgarea">
+<div class="maineighth-imgarea__img">
+<img src="images/jan.jpg" alt="">
+</div>
+<div class="maineighth-imgarea__txt">
+<span class="maineighth-imgarea__txtone">Lorem ipsum dolor sit amet</span>
+<span class="maineighth-imgarea__txtsecond">Consectetur adipiscing elit, sed do eiusmod tempor <br>
+  incididunt ut labore et dolore magna aliqua.</span>
+</div>
+<div class="maineighth-item">
+<div class="maineighth-item__one">
+<img src="images/eye.png" alt="">
+<span>542</span>
+</div>
+<div class="maineighth-item__one">
+<img src="images/komento.png" alt="">
+<span>17</span>
+</div>
+</div>
+</div>
+
+<div class="maineighth-imgarea">
+<div class="maineighth-imgarea__img">
+<img src="images/janone.jpg" alt="">
+</div>
+<div class="maineighth-imgarea__txt">
+<span class="maineighth-imgarea__txtone">sed do eiusmod tempor</span>
+<span class="maineighth-imgarea__txtsecond">Adipiscing elit, sed do eiusmod tempor incididunt ut labore
+  et dolore magna aliqua.</span>
+</div>
+<div class="maineighth-item">
+<div class="maineighth-item__one">
+<img src="images/eye.png" alt="">
+<span>992</span>
+</div>
+<div class="maineighth-item__one">
+<img src="images/komento.png" alt="">
+<span>42</span>
+</div>
+</div>
+</div>
+
+<div class="maineighth-imgarea">
+<div class="maineighth-imgarea__img">
+<img src="images/jansecond.jpg" alt="">
+</div>
+<div class="maineighth-imgarea__txt">
+<span class="maineighth-imgarea__txtone">incididunt ut labore et dolore</span>
+<span class="maineighth-imgarea__txtsecond">Elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+</span>
+</div>
+<div class="maineighth-item">
+<div class="maineighth-item__one">
+<img src="images/eye.png" alt="">
+<span>1560</span>
+</div>
+<div class="maineighth-item__one">
+<img src="images/komento.png" alt="">
+<span>98</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="mainmap">
+<div class="mainmap-with">
+<div class="mainmap-imgtxt">
+  <div class="mainmap-imgtxt__pin">
+<img src="images/pin.png" alt="">
+</div>
+<span>Open map</span>
+<div class="mainmap-imgtxt__red">
+<img src="images/mizikai.jpg" alt="">
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="footer">
+<div class="footer-with">
+  <div class="footer-all">
+    <div class="footer-one">
+<div class="footer-logo">
+  <span>MOGO</span>
+</div>
+<div class="footer-longtxt">
+<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod<br>
+   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim<br>
+   veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea<br>
+   commodo consequat.
+ </span>
+</div>
+<div class="footer-item">
+<div class="footer-item__title">
+<span>15k followers</span>
+</div>
+<div class="footer-item__follow">
+<span>Follow Us:</span>
+<a href="#">
+<img src="images/facebook.png" alt="">
+</a>
+<a href="#">
+<img src="images/twitter.png" alt="">
+</a>
+<a href="#">
+<img src="images/instagram.png" alt="">
+</a>
+<a href="#">
+<img src="images/p.png" alt="">
+</a>
+<a href="#">
+<img src="images/google.png" alt="">
+</a>
+<a href="#">
+<img src="images/youtube.png" alt="">
+</a>
+<a href="#">
+<img src="images/baske.png" alt="">
+</a>
+<a href="#">
+<img src="images/tmark.png" alt="">
+</a>
+</div>
+</div>
+<div class="footer-inputall">
+<div class="footer-input">
+<input type="text" name="" value="your Email...">
+</div>
+<a href="#">
+  <div class="footer-input__txt">
+  <span>SUBSCRIBE</span>
+  </div>
+</a>
+</div>
+</div>
+<div class="footer-second">
+<div class="footer-title">
+<span>BLOGS</span>
+</div>
+<div class="footer-imgtxt__all">
+<div class="footer-imgtxt">
+<div class="footer-imgtxt__img">
+<img src="images/akari.png" alt="">
+</div>
+<div class="footer-imgtxt__txt">
+<p class="footer-imgtxt__shorttxt">Lorem ipsum dolor sit amet, <br>
+consectetur adipiscing</p>
+<span class="footer-imgtxt__longtxt">Jan 9, 2016</span>
+</div>
+</div>
+
+<div class="footer-imgtxt">
+<div class="footer-imgtxt__img">
+<img src="images/ryuusei.png" alt="">
+</div>
+<div class="footer-imgtxt__txt">
+<p class="footer-imgtxt__shorttxt">Consectetur adipiscing elit, <br>
+sed do eiusmod tempor</p>
+<span class="footer-imgtxt__longtxt">Jan 9, 2016</span>
+</div>
+</div>
+
+<div class="footer-imgtxt">
+<div class="footer-imgtxt__img">
+<img src="images/guiter.png" alt="">
+</div>
+<div class="footer-imgtxt__txt">
+<p class="footer-imgtxt__shorttxt">sed do eiusmod tempor <br>
+incididunt ut labore</p>
+<span class="footer-imgtxt__longtxt">Jan 9, 2016</span>
+</div>
+</div>
+</div>
+</div>
+<div class="footerthird">
+  <div class="footer-title">
+  <span>INSTAGLAM</span>
+  </div>
+  <div class="footerthird-imgarea">
+<img src="images/snow.png" alt="">
+<img src="images/couple.png" alt="">
+<img src="images/night.png" alt="">
+  </div>
+  <div class="footerthird-imgarea">
+<img src="images/dark.png" alt="">
+<img src="images/wood.png" alt="">
+<img src="images/sky.png" alt="">
+  </div>
+  <div class="footerthird-imgarea">
+<img src="images/tonneru.png" alt="">
+<img src="images/donguri.png" alt="">
+<img src="images/woman.png" alt="">
+  </div>
+  <div class="footerthird-txt">
+<span>View more photos</span>
+  </div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="footernone">
+<div class="footer-itemnone">
+<div class="footer-item__title">
+<span>15k followers</span>
+</div>
+<div class="footer-item__follow">
+<span>Follow Us:</span>
+<img src="images/facebook.png" alt="">
+<img src="images/twitter.png" alt="">
+<img src="images/instagram.png" alt="">
+<img src="images/p.png" alt="">
+<img src="images/google.png" alt="">
+<img src="images/youtube.png" alt="">
+<img src="images/baske.png" alt="">
+<img src="images/tmark.png" alt="">
+</div>
+</div>
+<div class="footer-inputallnone">
+<div class="footer-input">
+<input type="text" name="" value="your Email...">
+</div>
+<a href="#">
+  <div class="footer-input__txt">
+  <span>SUBSCRIBE</span>
+  </div>
+</a>
+</div>
+</div>
+
+
+
+<div class="footerforth">
+<div class="footerforth-txt">
+<p>© 2016 MoGo free PSD template by<span> Laaqiq</span></p>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>
